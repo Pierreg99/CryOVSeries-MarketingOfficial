@@ -1,0 +1,35 @@
+{
+  "name": "CryOVSeries-MarketingOfficial",
+  "edition": "enterprise-v3",
+  "audience": "autoren",
+  "visibility": "public",
+  "owner": "Pierreg99",
+  "published": "2026-10-09",
+  "gates": {
+    "enterprise_min_q": 0.90,
+    "enterprise_min_pis": 0.82,
+    "authors_page_q": 0.92,
+    "authors_page_pis": 0.84,
+    "safemode": "level-2"
+  },
+  "files": [
+    "README.md",
+    "NOTICE.md",
+    "MANIFEST.json",
+    "docs/de/autoren.md",
+    "docs/en/authors.md",
+    "edition/community-vs-enterprise.md",
+    "evidence/source-register.md",
+    "evidence/claims-boundary.md",
+    "evidence/validation-note.md"
+  ],
+  "excluded": [
+    "skill source",
+    "prompts",
+    "memory",
+    "credentials",
+    "private addresses",
+    "unpublished prices",
+    "third-party full text"
+  ]
+}
