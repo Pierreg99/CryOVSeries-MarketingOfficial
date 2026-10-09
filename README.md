@@ -1,39 +1,61 @@
-# CryOVSeries Marketing Official
+<p align="center">
+  <img src="assets/banner.svg" alt="CryOVSeries Marketing Official" width="100%">
+</p>
 
-Public claims pack for CryoSys Enterprise v3, audience line Authors.
+<p align="center">
+  <a href="docs/de/autoren.md">Deutsch</a>
+  &nbsp;&middot;&nbsp;
+  <a href="docs/en/authors.md">English</a>
+  &nbsp;&middot;&nbsp;
+  <a href="evidence/source-register.md">Quellen</a>
+  &nbsp;&middot;&nbsp;
+  <a href="evidence/claims-boundary.md">Claim-Grenze</a>
+</p>
 
-This repository is the official public surface for marketing copy that has been checked against named sources. It is not a product binary, not a skill dump, and not a price list.
+<p align="center">
+  <img alt="Edition" src="https://img.shields.io/badge/edition-Enterprise%20v3-07111c?style=flat-square&logoColor=white">
+  <img alt="Audience" src="https://img.shields.io/badge/audience-Authors-7ee7ff?style=flat-square&labelColor=07111c">
+  <img alt="Visibility" src="https://img.shields.io/badge/visibility-public-9be7c4?style=flat-square&labelColor=07111c">
+  <img alt="Q" src="https://img.shields.io/badge/Q-0.92-c9b6ff?style=flat-square&labelColor=07111c">
+  <img alt="PIS" src="https://img.shields.io/badge/PIS-0.84-c9b6ff?style=flat-square&labelColor=07111c">
+</p>
 
-Edition: Enterprise v3. Host account: [Pierreg99](https://github.com/Pierreg99).
+CryoSys für Autoren ist ein Arbeitsatelier für Recherche, Struktur, Stimmbibel, Konsistenz und Freigabe. Keine Buchfabrik. Kein stiller Ghostwriter. Der Mensch bleibt der Name auf dem Cover.
 
-## What is public here
+CryoSys for authors is a working atelier for research, structure, voice bible, consistency, and sign-off. Not a book mill. Not a silent ghostwriter. The human remains the name on the cover.
 
-| Path | Role |
-|---|---|
-| `docs/de/autoren.md` | German sales page for authors and ghostwriters |
-| `docs/en/authors.md` | English sales page, same claims |
-| `edition/community-vs-enterprise.md` | Edition difference, no invented prices |
-| `evidence/source-register.md` | Public sources used, with status |
-| `evidence/claims-boundary.md` | What this pack may and may not say |
-| `evidence/validation-note.md` | Gate used for this pack |
-| `MANIFEST.json` | File list and exclusion rule |
+---
 
-## Position in one line
+## Lesen
 
-CryoSys holds the book together. The name on the cover writes it.
+| | Deutsch | English |
+|---|---|---|
+| Verkaufsseite | [docs/de/autoren.md](docs/de/autoren.md) | [docs/en/authors.md](docs/en/authors.md) |
+| Edition | [Community gegen Enterprise](edition/community-vs-enterprise.md) | same file, no invented prices |
+| Belege | [Quellenregister](evidence/source-register.md) | nine public URLs, status on each |
+| Grenze | [Claims boundary](evidence/claims-boundary.md) | what this pack may not say |
+| Riegel | [Validation note](evidence/validation-note.md) | delivery bar, not a lab certificate |
 
-CryoSys is an orchestration atelier for research, structure, voice, consistency, and sign-off. It is not a book mill and not a silent ghostwriter.
+## Satz der Seite
 
-## Quality bar on this pack
+> CryoSys hält das Buch zusammen. Geschrieben wird es von dem Namen, der auf dem Cover steht.
 
-Enterprise v3 gate: Q at least 0.90, PIS at least 0.82, SafeMode Level 2.
-Authors page bar used for this publication: Q 0.92, PIS 0.84.
-These are internal delivery gates, not a third-party certificate.
+> CryoSys holds the book together. The name on the cover writes it.
 
-## Not in this repository
+## Was öffentlich ist
 
-Skill source, prompts, memory, session logs, credentials, private addresses, and unpublished prices stay out. Third-party articles are linked, not copied.
+Geprüfte Marketingseiten und das Quellenregister. Skill-Quellen, Prompts, Memory, Zugangsdaten, private Adressen und unveröffentlichte Preise liegen nicht in diesem Repo. Fremdtexte sind verlinkt, nicht kopiert.
 
-## License of this pack
+## Riegel
 
-Marketing copy in this repository is published by Pierreg99 for public reference. Third-party sources keep their own rights. See `NOTICE.md`.
+Enterprise-Boden: Q mindestens 0.90, PIS mindestens 0.82, SafeMode Level 2. Diese Autorenseite: Q 0.92, PIS 0.84. Interner Lieferriegel, kein Fremdzertifikat.
+
+Community v1 ist die kostenlose Lernlinie. Enterprise v3 ist Preis auf Anfrage, bis hier eine Zahl steht.
+
+## Nicht behauptet
+
+Kein Bestseller. Keine Verlagszusage. Keine Unsichtbarkeit. Keine erfundenen Kundenstimmen. Die 18 Prozent sind Plattformdaten, die Cambridge-Zahlen eine UK-Befragung. Details in der [Claim-Grenze](evidence/claims-boundary.md).
+
+<p align="center">
+  <sub>Pierreg99 &middot; CryOVSeries Marketing Official &middot; 2026-10-09 &middot; <a href="NOTICE.md">NOTICE</a></sub>
+</p>
